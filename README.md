@@ -1,6 +1,6 @@
 # terminal-24-bit-check
 ```bash
-$ https://github.com/cho0h5/terminal-24-bit-check.git
+$ git clone https://github.com/cho0h5/terminal-24-bit-check.git
 $ cd terminal-24-bit-check
 $ cargo run
 ```
